@@ -1,8 +1,4 @@
 package snake;
-/* Copyright (c) 2014, Radu Jica. 
- * Snake v1.0
- */
-
 
 import java.awt.EventQueue;
 
@@ -11,7 +7,7 @@ import javax.swing.JFrame;
 /**
  * @author Radu Jica
  * @version 1.0
- * @since 14.12.2014
+ * created on December 14, 2014
  */
 
 @SuppressWarnings("serial")
